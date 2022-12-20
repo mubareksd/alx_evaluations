@@ -4,10 +4,10 @@
 
 Select all valid answers
 
-- [ ] School
-- [ ] Schol
+- [X] School
+- [X] Schol
 - [ ] Scho.l
-- [ ] Schooool
+- [X] Schooool
 
 **** What does the macro TABLESIZE expand to?
 
@@ -85,7 +85,7 @@ Select all valid answers
 Select all valid answers
 
 - [ ] Scho.l
-- [ ] School
+- [X] School
 - [ ] school
 
 **** What is a Makefile?
