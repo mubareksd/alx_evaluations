@@ -1,1 +1,125 @@
 #+TITLE: Evaluation #7
+
+**** What is the space complexity of this function / algorithm?
+- [X] 0(nm)
+- [ ] 0(n^2)
+- [ ] 0(log(n))
+- [ ] 0(1)
+
+**** 0x13 << 1 = ?
+- [ ] 0x13
+- [ ] 0x12
+- [X] 0x26
+- [ ] 0x4C
+
+**** What is a web framework?
+
+- [X] A software framework that is designed to support the development of web
+- [ ] applications
+- [ ] A software, or hardware dedicated to running web applications
+- [ ] A program that handles all application operations
+
+**** What request methods does this line of code below allow?
+
+- [X] GET
+- [ ] PUT
+- [ ] POST
+
+**** What are the characteristics of a REST-ful API?
+
+- [X] Uniform Interface
+- [X] Cacheable
+- [X] Client-Server
+- [X] Layered System
+- [X] Stateless
+- [ ] Extendable
+
+**** What is the output of the following piece of code?
+
+- [X] 0101010101
+- [ ] 0123456789
+- [ ] 1010101010
+
+**** What is in-order traversal?
+
+- [X] the left subtree is visited first, then the root and later the right sub-tree
+- [ ] the root node is visited first, then the left subtree and finally the right subtree
+- [ ] left subtree is visited first, then the right subtree and finally the root node
+
+**** When you are typing https://intranet.hbtn.io in your browser, which HTTP verb is used?
+
+- [ ] POST
+- [ ] DELETE
+- [X] GET
+- [ ] POST
+
+**** What do these lines print?
+
+- [ ] name
+- [ ] None
+- [ ] 'John'
+- [X] 'no name'
+
+**** What does this code print?
+
+- [X] 4321
+- [ ] 43210
+- [ ] 321
+- [ ] 3210
+
+**** What is the time complexity (worst case) of a binary search in an array of size n?
+
+- [X] O(log(n))
+- [ ] O(1)
+- [ ] O(n!)
+- [ ] O(n^2)
+
+**** What is the first digit of status codes that indicate a server error?
+
+- [ ] 1XX
+- [ ] 2XX
+- [ ] 3XX
+- [ ] 4XX
+- [X] 5XX
+
+**** What does CORS stand for?
+
+- [X] Cross-Origin Resource Sharing
+- [ ] Cross-Origin Route Sharing
+- [ ] Cross-Operator Resource Sharing
+- [ ] Create-Object Resource Sharing
+
+**** What is the curl option that defines the HTTP method used?
+
+- [ ] -d
+- [X] -X
+- [ ] -s
+- [ ] -M
+
+**** What is the name of the HTTP request header that defines the size (in bytes) of the message body?
+
+- [X] Content-Length
+- [ ] Length
+- [ ] Content-Size
+- [ ] Size
+
+**** What’s the status code number for a permanent redirection (moved permanently)?
+
+- [ ] 201
+- [ ] 300
+- [X] 301
+- [ ] 302
+- [ ] 304
+
+**** In the following URL, what’s the sub domain?
+
+- [ ] .com
+- [ ] api.google
+- [X] api
+- [ ] https
+
+**** Which symbol should I use to redirect the error output to the standard output?
+
+- [X] 2>&1
+- [ ] 1>&2
+- [ ] 2>
