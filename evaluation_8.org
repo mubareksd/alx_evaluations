@@ -1,1 +1,113 @@
 #+TITLE: Evaluation #8
+
+**** A firewall can monitor ____________ traffic.
+
+- [X] Incoming
+- [X] Outgoing
+- [ ] SQL Injections
+ CPU Usage
+
+**** Based on this code, what should all the test cases be?
+
+- [X] empty list
+- [X] list with one element (any type)
+- [X] list with 2 different elements (same type)
+- [X] list with the same element twice (same type)
+- [X] list with more than 2 times the same element (same type)
+- [X] list with multiple types (integer, string, etc...)
+- [X] not a list argument (ex: passing a dictionary to the method)
+
+**** What is the OSI model?
+
+- [ ] Set of specifications that network hardware manufacturers must respect
+- [X] The OSI model is a conceptual model that characterizes the communication functions of a telecommunication system without regard to their underlying internal structure and technology
+- [ ] The OSI model is a model that characterizes the communication functions of a telecommunication system with a strong regard for their underlying internal structure and technology
+
+**** What is 98 in base 16?
+
+- [X] 0x62
+- [ ] 0x98
+- [ ] 0x96
+
+**** What does this print?
+
+- [X] Python
+- [ ] Python is cool
+- [ ] is cool
+
+**** In a doubly linked list, what’s the “tail” of a linked list?
+
+- [X] It's the node with the pointer to the next node equal to NULL
+- [ ] It's the node with the pointer to the previous node equal to NULL
+
+**** What is wrong with the following code?
+
+- [X] Nothing is wrong
+- [ ] It is impossible to declare the variable array this way
+- [ ] The array array is not entirely initialized
+- [ ] It is not possible to access array[n]
+
+**** How do you print the name of the current working directory on Linux?
+
+- [ ] ls
+- [ ] which
+- [ ] list
+- [ ] cd
+- [X] pwd
+
+**** What are the layers of the OSI model?
+
+- [X] Physical, Data Link, Network, Transport, Session, Presentation, Application
+- [ ] Physical, Network, Transport, Presentation, Application
+- [ ] Application, Session, Information, Packets, TCP/UDP
+- [ ] Physical, Network, Transport, Session, Presentation, Application
+
+**** Given this code:
+
+- [X] (*p).y = 98;
+- [X] p->y = 98;
+- [X] my_point.y = 98;
+- [ ] my_point->y = 98;
+- [ ] p.y = 98;
+
+10**** What is __repr__?
+
+- [ ] Instance method that prints an "official" string representation of an instance
+- [X] Instance method that returns an "official" string representation of an instance
+- [ ] Instance method that returns the dictionary representation of an instance
+
+**** When you are typing https://www.google.com in your browser, which HTTP verb is used?
+
+- [X] GET
+- [ ] PUT
+- [ ] POST
+- [ ] DELETE
+- [ ] CREATE
+
+**** What is a server?
+
+- [X] A server is a device, a virtual device or computer program or providing functionality for other programs or devices, called “clients”.
+- [ ] A server is a software that serves web pages.
+- [ ] A server is returning information to other computers when asked.
+
+**** What is the name of the HTTP request header that defines the size (in bytes) of the message body?
+
+- [X] Content-Length
+- [ ] Length
+- [ ] Content-Size
+- [ ] Size
+
+**** What are the different steps to form an executable file from C source code?
+
+- [ ] Interpretation, compilation and assembly
+- [X] Preprocessing, compilation, assembly, and linking
+- [ ] Interpretation, assembly and compilation
+- [ ] Compilation and linking
+- [ ] Preprocessing and compilation
+
+**** What is the correct combination of oflags used to open a file with the mode write only and create it if it doesn’t exist?
+
+- [ ] O_WRONLY
+- [ ] O_WRONLY | O_CREAT | O_EXCL
+- [X] O_WRONLY | O_CREAT
+- [ ] O_RDWR | O_CREAT
